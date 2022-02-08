@@ -17,8 +17,8 @@ navbar-links:
   About Us: "aboutus"
   People: "People"
   Publications:
-    - Journal: "journal"
-    - Conference: "conference"
+    - Journal: "journal_2021"
+    - Conference: "conference_2021"
     - PhD & Masters: "graduated_2021"
 
 # --- Logo --- #
