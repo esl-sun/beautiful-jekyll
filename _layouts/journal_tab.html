@@ -16,9 +16,9 @@ layout: base
       {% endif %}
 
       <div class="topnav">
-        <a href="/journal_2021">2021</a>
-        <a href="/journal_2020/">2020</a>
-        <a href="/journal_2017/">2017</a>
+        <a class="{% if page.year == 2021 %} active {% endif%}" href="/journal_2021">2021</a>
+        <a class="{% if page.year == 2020 %} active {% endif%}" href="/journal_2020/">2020</a>
+        <a class="{% if page.year == 2017 %} active {% endif%}" href="/journal_2017/">2017</a>
       </div>
 
       <br>
