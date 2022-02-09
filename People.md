@@ -53,7 +53,7 @@ The students would not be able to perform their research without the supervision
   <div class="col-md-4" style="text-align: center;">
     <img src="/assets/img/profile/staff/schoeman.jpg" width="100%"/>
     <h5>Mr JC Schoeman</h5>
-    Autonomous Navigation and Mapping
+    Autonomous Systems and Reinforcement Learning
   </div>
 </div>
 
