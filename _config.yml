@@ -5,6 +5,10 @@
 
 # --- Required options --- #
 
+url: https://www.esl.sun.ac.za
+baseurl: 
+absolute_url: https://www.esl.sun.ac.za
+
 # Name of website
 title: Electronic Systems Laboratory
 
